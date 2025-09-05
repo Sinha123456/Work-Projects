@@ -7,4 +7,6 @@
 ### For both indicators, a district is only officially flagged if it is determined that the disproportionate representation is the result of inappropriate identification procedures. 
 ## Significant Disproportionality calculation: Calculating significant disproportionality across identification, placement, and discipline. A risk ratio compares a racial or ethnic group's percentage in a specific special education category to that of all other students. 
 ### If this ratio exceeds a state-defined threshold for three consecutive years, with adequate student numbers, significant disproportionality is found. A determination is then made on whether inappropriate identification, placement, or disciplinary policies caused the discrepancy
-
+## Tools used for these projects
+## Python, Pandas, matplotlib, seaborn.
+## Output analysis in Excel, built a dashboard in Power BI
